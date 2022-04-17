@@ -1,0 +1,11 @@
+
+;
+java:S1659"%Declare "breadth" on a separate line.(Ω
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(°—ΜΫύÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(σά½κ
+T
+java:S1117"9Rename "length" which hides the field declared at line 5.(‹ΟÒθώÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(μι―
+P
+java:S1117":Rename "breadth" which hides the field declared at line 5.(ÿ†ξη
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(όµ

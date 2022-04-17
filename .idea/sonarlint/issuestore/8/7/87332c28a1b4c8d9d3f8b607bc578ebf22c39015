@@ -1,0 +1,7 @@
+
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ê¨’Ñûÿÿÿÿ8—ºÛÓú/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×¿§ÿÿÿÿÿ8…Òêİú/
+[
+java:S1117"9Rename "radius" which hides the field declared at line 6.(½¤½ãıÿÿÿÿ8…Òêİú/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üµˆ
